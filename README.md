@@ -1,4 +1,8 @@
-# LUTE - Learning Using Texts
+# Local copy of LUTE - Learning Using Texts
+
+Please use the [Official distribution](https://github.com/jzohrab/lute) instead of this copy.
+
+------
 
 [![CI master](https://github.com/jzohrab/lute/actions/workflows/symfony-ci.yml/badge.svg?branch=master)](https://github.com/jzohrab/lute/actions/workflows/symfony-ci.yml?query=branch%3Amaster)
 [![Discord Server](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/CzFUQP5m8u)
